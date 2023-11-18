@@ -1,0 +1,7 @@
+<iframe
+    src="https://embed.ipfscdn.io/ipfs/bafybeicd3qfzelz4su7ng6n523virdsgobrc5pcbarhwqv3dj3drh645pi/?contract=0xF2Ef3c450912D2BE84b469bC8B9939C55bAA2B4d&chain=%7B%22name%22%3A%22Scroll%22%2C%22chain%22%3A%22ETH%22%2C%22rpc%22%3A%5B%22https%3A%2F%2Fscroll.rpc.thirdweb.com%2F%24%7BTHIRDWEB_API_KEY%7D%22%5D%2C%22nativeCurrency%22%3A%7B%22name%22%3A%22Ether%22%2C%22symbol%22%3A%22ETH%22%2C%22decimals%22%3A18%7D%2C%22shortName%22%3A%22scr%22%2C%22chainId%22%3A534352%2C%22testnet%22%3Afalse%2C%22slug%22%3A%22scroll%22%7D&clientId=91cca12b6f8e8d7bef8690dd42a95949&theme=light&primaryColor=purple"
+    width="600px"
+    height="600px"
+    style="max-width:100%;"
+    frameborder="0"
+></iframe>
